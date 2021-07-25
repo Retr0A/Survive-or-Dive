@@ -22,3 +22,18 @@ This repository contains all the source files for the game "Survive or Dive".
 - Photoshop files`.psd`
 - `.fbx` 3D Model files
 > *note*: all the files above are `.UASSET`.To view them with their normal file extension, go to the resources folder.
+
+##Other
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+This site was built using [Main site](http://thevirussite.epizy.com/).
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
