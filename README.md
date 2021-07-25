@@ -9,7 +9,7 @@ This repository contains all the source files for the game "Survive or Dive".
 
 ![Capture](https://user-images.githubusercontent.com/71063716/113410742-d2850600-93bc-11eb-8e34-48ac05af4e98.JPG)
 
-> *note*: To edit the project from UE5 and then commit changes,you need to use github desktop app.
+> *note*: To edit the project from UE5 and then commit changes, you need to use github desktop app.
 
 ## How to download
 ###### 🟢1.Click on `Code`
@@ -21,3 +21,4 @@ This repository contains all the source files for the game "Survive or Dive".
 - Blueprints
 - Photoshop files`.psd`
 - `.fbx` 3D Model files
+> *note*: all the files above are `.UASSET`.To view them with their normal file extension, go to the resources branch.
