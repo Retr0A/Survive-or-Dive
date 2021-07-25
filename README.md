@@ -21,4 +21,14 @@ This repository contains all the source files for the game "Survive or Dive".
 - Blueprints
 - Photoshop files`.psd`
 - `.fbx` 3D Model files
-> *note*: all the files above are `.UASSET`.To view them with their normal file extension, go to the resources branch.
+> *note*: all the files above are `.UASSET`.To view them with their normal file extension, go to the resources folder.
+
+##Other
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+[Main site](http://thevirussite.epizy.com/).
