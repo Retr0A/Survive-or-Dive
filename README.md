@@ -7,6 +7,8 @@ This repository contains all the source files for the game "Survive or Dive".
 
 ###### To download the source code,see the picture:
 
+![Capture](https://user-images.githubusercontent.com/71063716/113410742-d2850600-93bc-11eb-8e34-48ac05af4e98.JPG)
+
 ## How to download
 ###### 🟢1.Click on `Code`
 ###### 🔵2.Click on `Download ZIP`
