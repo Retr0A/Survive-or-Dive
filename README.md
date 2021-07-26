@@ -23,7 +23,7 @@ This repository contains all the source files for the game "Survive or Dive".
 - `.fbx` 3D Model files
 > *note*: all the files above are `.UASSET`.To view them with their normal file extension, go to the resources folder.
 
-##Other
+## Other
 
 Some basic Git commands are:
 ```
