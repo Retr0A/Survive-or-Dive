@@ -11,8 +11,8 @@ This repository contains all the source files for the game "Survive or Dive".
 
 ![Capture](https://user-images.githubusercontent.com/71063716/113410742-d2850600-93bc-11eb-8e34-48ac05af4e98.JPG)
 
-###### 🟢1.Click on `Code`
-###### 🔵2.Click on `Download ZIP`
+###### :green_square:1.Click on `Code`
+######:blue_square:2.Click on `Download ZIP`
 > The file will download as ZIP file and you need to extract it **in a new folder** using [WinRAR](https://www.win-rar.com/predownload.html?&L=0).
 
 > *note*: To edit the project from UE5 and then commit changes, you need to use github desktop app.
